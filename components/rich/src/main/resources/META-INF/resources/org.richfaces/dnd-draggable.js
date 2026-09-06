@@ -69,7 +69,6 @@
 		this.dragElement.draggable("option", "addClasses", false);
 		this.dragElement.draggable("option", "appendTo", "body");
 
-
 		this.dragElement.data('type', this.options.type);
 		this.dragElement.data("init", true);
 		this.dragElement.data("id", this.id);
